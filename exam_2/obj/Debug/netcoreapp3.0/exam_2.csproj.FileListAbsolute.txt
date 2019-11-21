@@ -1,0 +1,22 @@
+C:\Users\Ole\Documents\Software_design\Eksamen\exam-master\Software_design_Exam\exam_2\bin\Debug\netcoreapp3.0\exam_2.exe
+C:\Users\Ole\Documents\Software_design\Eksamen\exam-master\Software_design_Exam\exam_2\bin\Debug\netcoreapp3.0\exam_2.deps.json
+C:\Users\Ole\Documents\Software_design\Eksamen\exam-master\Software_design_Exam\exam_2\bin\Debug\netcoreapp3.0\exam_2.runtimeconfig.json
+C:\Users\Ole\Documents\Software_design\Eksamen\exam-master\Software_design_Exam\exam_2\bin\Debug\netcoreapp3.0\exam_2.runtimeconfig.dev.json
+C:\Users\Ole\Documents\Software_design\Eksamen\exam-master\Software_design_Exam\exam_2\bin\Debug\netcoreapp3.0\exam_2.dll
+C:\Users\Ole\Documents\Software_design\Eksamen\exam-master\Software_design_Exam\exam_2\bin\Debug\netcoreapp3.0\exam_2.pdb
+C:\Users\Ole\Documents\Software_design\Eksamen\exam-master\Software_design_Exam\exam_2\obj\Debug\netcoreapp3.0\exam_2.csprojAssemblyReference.cache
+C:\Users\Ole\Documents\Software_design\Eksamen\exam-master\Software_design_Exam\exam_2\obj\Debug\netcoreapp3.0\exam_2.AssemblyInfoInputs.cache
+C:\Users\Ole\Documents\Software_design\Eksamen\exam-master\Software_design_Exam\exam_2\obj\Debug\netcoreapp3.0\exam_2.AssemblyInfo.cs
+C:\Users\Ole\Documents\Software_design\Eksamen\exam-master\Software_design_Exam\exam_2\obj\Debug\netcoreapp3.0\exam_2.dll
+C:\Users\Ole\Documents\Software_design\Eksamen\exam-master\Software_design_Exam\exam_2\obj\Debug\netcoreapp3.0\exam_2.pdb
+C:\Users\Aksel\Documents\Software Design\SoftwareExam-master\Software_design_Exam\exam_2\bin\Debug\netcoreapp3.0\exam_2.exe
+C:\Users\Aksel\Documents\Software Design\SoftwareExam-master\Software_design_Exam\exam_2\bin\Debug\netcoreapp3.0\exam_2.deps.json
+C:\Users\Aksel\Documents\Software Design\SoftwareExam-master\Software_design_Exam\exam_2\bin\Debug\netcoreapp3.0\exam_2.runtimeconfig.json
+C:\Users\Aksel\Documents\Software Design\SoftwareExam-master\Software_design_Exam\exam_2\bin\Debug\netcoreapp3.0\exam_2.runtimeconfig.dev.json
+C:\Users\Aksel\Documents\Software Design\SoftwareExam-master\Software_design_Exam\exam_2\bin\Debug\netcoreapp3.0\exam_2.dll
+C:\Users\Aksel\Documents\Software Design\SoftwareExam-master\Software_design_Exam\exam_2\bin\Debug\netcoreapp3.0\exam_2.pdb
+C:\Users\Aksel\Documents\Software Design\SoftwareExam-master\Software_design_Exam\exam_2\obj\Debug\netcoreapp3.0\exam_2.csprojAssemblyReference.cache
+C:\Users\Aksel\Documents\Software Design\SoftwareExam-master\Software_design_Exam\exam_2\obj\Debug\netcoreapp3.0\exam_2.AssemblyInfoInputs.cache
+C:\Users\Aksel\Documents\Software Design\SoftwareExam-master\Software_design_Exam\exam_2\obj\Debug\netcoreapp3.0\exam_2.AssemblyInfo.cs
+C:\Users\Aksel\Documents\Software Design\SoftwareExam-master\Software_design_Exam\exam_2\obj\Debug\netcoreapp3.0\exam_2.dll
+C:\Users\Aksel\Documents\Software Design\SoftwareExam-master\Software_design_Exam\exam_2\obj\Debug\netcoreapp3.0\exam_2.pdb
